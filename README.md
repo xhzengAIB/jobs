@@ -1,7 +1,7 @@
 # jobs
 工作地点：杭州，滨江
 
-简历投递邮箱：xianhua.zxh@alibaba-inc.com
+简历投递邮箱：xianhua.zxh@alibaba-inc.com       
 软文介绍：[阿里巴巴国际无线技术部 - 在这里遇见最好的自己](http://icbu.info/welcome-to-icbu/)
 
 # 我们在做什么
