@@ -1,0 +1,1 @@
+zend_extension = /usr/lib64/php/7.0/modules/ioncube_loader_lin_7.0.so
